@@ -10,3 +10,8 @@ This file contains the sourcecode used for cleaning the given dataset about wear
 4.load activity and subject data for the above and merge both to form one dataset
 5.make factors from activity and subject and create a clean dataset by calculating mean for each variable depending on subject and activity
 
+# final_data.txt
+This is the file that represents the clean data after the above script is run on the downloaded datasets
+
+# Codebook.md
+This file contains explanations about the various variables in the final created dataset
